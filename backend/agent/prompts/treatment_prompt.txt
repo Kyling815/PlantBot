@@ -1,0 +1,9 @@
+## Treatment Request
+
+Based on the diagnosis of {disease} in {plant} (severity: {severity}), provide:
+1. Immediate actions to take
+2. Recommended fungicides / pesticides / treatments (with application instructions)
+3. Cultural practices to reduce disease spread
+4. Timeline for expected recovery
+
+Be specific and practical.

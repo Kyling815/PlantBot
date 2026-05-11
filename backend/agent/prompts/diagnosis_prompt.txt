@@ -1,0 +1,9 @@
+## Diagnosis Context
+
+The CNN model detected the following:
+- Plant: {plant}
+- Disease: {disease}
+- Confidence: {confidence}%
+- Severity: {severity}
+
+Please confirm the diagnosis and provide a brief overview of what this means for the plant's health.
