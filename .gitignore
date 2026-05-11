@@ -13,10 +13,10 @@ build/
 venv/
 env/
 
-# PyTorch
-*.pth
-*.pt
-*.ckpt
+# PyTorch (tracked by Git LFS instead)
+# *.pth
+# *.pt
+# *.ckpt
 
 # Environment
 .env
